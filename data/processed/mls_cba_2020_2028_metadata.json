@@ -1,0 +1,11 @@
+{
+    "document": "MLS-MLSPA Collective Bargaining Agreement",
+    "agreement_period": "2020-2028",
+    "source_page_url": "https://mlsplayers.org/resources/cba",
+    "source_pdf_url": "https://s3.amazonaws.com/mlspa/2020-2028-CBA-Long-Form_FINAL.pdf?mtime=20230221184117",
+    "retrieved_at_utc": "2026-09-28T19:24:02.250657+00:00",
+    "pdf_pages": 106,
+    "total_words": 42876,
+    "raw_pdf_file": "data\\raw\\mls_cba_2020_2028.pdf",
+    "pages_json_file": "data\\processed\\mls_cba_2020_2028_pages.json"
+}

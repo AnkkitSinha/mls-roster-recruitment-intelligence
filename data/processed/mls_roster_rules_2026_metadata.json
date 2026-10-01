@@ -1,0 +1,11 @@
+{
+    "document_name": "MLS Roster Rules and Regulations",
+    "season": 2026,
+    "source_type": "Official MLS website",
+    "source_url": "https://www.mlssoccer.com/about/roster-rules-and-regulations",
+    "retrieved_at_utc": "2026-09-24T14:32:16.686574+00:00",
+    "raw_html_file": "data\\raw\\mls_roster_rules_2026.html",
+    "clean_text_file": "data\\processed\\mls_roster_rules_2026.txt",
+    "character_count": 56978,
+    "line_count": 389
+}

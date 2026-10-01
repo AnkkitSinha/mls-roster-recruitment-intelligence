@@ -1,0 +1,860 @@
+{
+    "document": "MLS Roster Rules and Regulations",
+    "season": 2026,
+    "html_headings": [
+        {
+            "tag": "h3",
+            "text": "As of February 3, 2026"
+        },
+        {
+            "tag": "h2",
+            "text": "2026 MLS Roster Composition"
+        },
+        {
+            "tag": "h3",
+            "text": "Senior Roster"
+        },
+        {
+            "tag": "h3",
+            "text": "Supplemental Roster"
+        },
+        {
+            "tag": "h2",
+            "text": "2026 Roster Compliance, Roster Freeze and Transfer Window Dates"
+        },
+        {
+            "tag": "h2",
+            "text": "Player Categories on the Roster"
+        },
+        {
+            "tag": "h3",
+            "text": "Domestic/International"
+        },
+        {
+            "tag": "h3",
+            "text": "International Players"
+        },
+        {
+            "tag": "h3",
+            "text": "Homegrown Players"
+        },
+        {
+            "tag": "h3",
+            "text": "Generation adidas"
+        },
+        {
+            "tag": "h3",
+            "text": "Roster Construction Path"
+        },
+        {
+            "tag": "h3",
+            "text": "Designated Player"
+        },
+        {
+            "tag": "h3",
+            "text": "U22 Initiative Roster Slots"
+        },
+        {
+            "tag": "h3",
+            "text": "Special Discovery Players"
+        },
+        {
+            "tag": "h2",
+            "text": "Player Acquisition Mechanisms"
+        },
+        {
+            "tag": "h3",
+            "text": "SuperDraft"
+        },
+        {
+            "tag": "h3",
+            "text": "SuperDraft Priority List"
+        },
+        {
+            "tag": "h3",
+            "text": "Trades"
+        },
+        {
+            "tag": "h3",
+            "text": "Cash for Player Trades"
+        },
+        {
+            "tag": "h3",
+            "text": "Discovery Process"
+        },
+        {
+            "tag": "h3",
+            "text": "Related Party Transactions"
+        },
+        {
+            "tag": "h3",
+            "text": "Homegrown Player Signings"
+        },
+        {
+            "tag": "h3",
+            "text": "Affiliate Priority Players"
+        },
+        {
+            "tag": "h3",
+            "text": "Re-Entry Process"
+        },
+        {
+            "tag": "h3",
+            "text": "Free Agency"
+        },
+        {
+            "tag": "h3",
+            "text": "Waivers"
+        },
+        {
+            "tag": "h3",
+            "text": "Claiming an Out of Contract Player"
+        },
+        {
+            "tag": "h3",
+            "text": "Affiliate Short-Term Agreements"
+        },
+        {
+            "tag": "h3",
+            "text": "Extreme Hardship Call-ups"
+        },
+        {
+            "tag": "h3",
+            "text": "Season-Ending Injury"
+        },
+        {
+            "tag": "h3",
+            "text": "Short-Term Injury Replacements"
+        },
+        {
+            "tag": "h2",
+            "text": "Methods of Removing a Player from a Roster"
+        },
+        {
+            "tag": "h3",
+            "text": "Transfers and Loans"
+        },
+        {
+            "tag": "h3",
+            "text": "Transfer and Loan Fees"
+        },
+        {
+            "tag": "h3",
+            "text": "Intraleague Loans"
+        },
+        {
+            "tag": "h3",
+            "text": "Loan of a Player by MLS"
+        },
+        {
+            "tag": "h3",
+            "text": "Loan of a Player by MLS to Affiliate Club (MLS NEXT Pro)"
+        },
+        {
+            "tag": "h3",
+            "text": "Buyout of Guaranteed Contract"
+        },
+        {
+            "tag": "h3",
+            "text": "Right of First Refusal"
+        },
+        {
+            "tag": "h2",
+            "text": "Allocation Money"
+        },
+        {
+            "tag": "h3",
+            "text": "General Allocation Money"
+        },
+        {
+            "tag": "h3",
+            "text": "Buy-Down"
+        },
+        {
+            "tag": "h3",
+            "text": "Use against a Salary Budget Charge"
+        },
+        {
+            "tag": "h3",
+            "text": "Targeted Allocation Money Available Per Year"
+        },
+        {
+            "tag": "h2",
+            "text": "Salary Parameters"
+        },
+        {
+            "tag": "h3",
+            "text": "2026 Salary Budget Information"
+        },
+        {
+            "tag": "h3",
+            "text": "Player Professional Development Role"
+        },
+        {
+            "tag": "h2",
+            "text": "2021 MLS Roster Rules and Regulations"
+        },
+        {
+            "tag": "h2",
+            "text": "2020 MLS Roster Rules and Regulations"
+        }
+    ],
+    "candidate_text_headings": [
+        {
+            "line_number": 2,
+            "text": "2026 MLS Roster Composition"
+        },
+        {
+            "line_number": 5,
+            "text": "Senior Roster"
+        },
+        {
+            "line_number": 10,
+            "text": "Supplemental Roster"
+        },
+        {
+            "line_number": 13,
+            "text": "Slots 21-24:"
+        },
+        {
+            "line_number": 16,
+            "text": "Slots 25-30:"
+        },
+        {
+            "line_number": 21,
+            "text": "Slot 31:"
+        },
+        {
+            "line_number": 24,
+            "text": "Homegrown Player Excess"
+        },
+        {
+            "line_number": 27,
+            "text": "2026 Roster Compliance, Roster Freeze and Transfer Window Dates"
+        },
+        {
+            "line_number": 31,
+            "text": "Primary Transfer Window:"
+        },
+        {
+            "line_number": 32,
+            "text": "Monday, January 26, 2026 – Thursday, March 26, 2026"
+        },
+        {
+            "line_number": 33,
+            "text": "Secondary Transfer Window:"
+        },
+        {
+            "line_number": 34,
+            "text": "Monday, July 13, 2026 – Wednesday, September 2, 2026"
+        },
+        {
+            "line_number": 35,
+            "text": "Player Categories on the Roster"
+        },
+        {
+            "line_number": 36,
+            "text": "Domestic/International"
+        },
+        {
+            "line_number": 37,
+            "text": "Domestic Players"
+        },
+        {
+            "line_number": 38,
+            "text": "U.S.-based clubs:"
+        },
+        {
+            "line_number": 40,
+            "text": "Canada-based clubs:"
+        },
+        {
+            "line_number": 43,
+            "text": "Homegrown International Rule"
+        },
+        {
+            "line_number": 45,
+            "text": "Canadian Approved Youth Club"
+        },
+        {
+            "line_number": 49,
+            "text": "International Players"
+        },
+        {
+            "line_number": 51,
+            "text": "In addition, the following applies:"
+        },
+        {
+            "line_number": 56,
+            "text": "Homegrown Players"
+        },
+        {
+            "line_number": 60,
+            "text": "Off-Roster Homegrown Players"
+        },
+        {
+            "line_number": 68,
+            "text": "Generation adidas"
+        },
+        {
+            "line_number": 70,
+            "text": "Roster Construction Path"
+        },
+        {
+            "line_number": 73,
+            "text": "Three Designated Player Model"
+        },
+        {
+            "line_number": 74,
+            "text": "Up to three Designated Players AND;"
+        },
+        {
+            "line_number": 75,
+            "text": "Up to three U22 Initiative Players"
+        },
+        {
+            "line_number": 76,
+            "text": "U22 Initiative Player Model"
+        },
+        {
+            "line_number": 77,
+            "text": "Up to two Designated Players AND;"
+        },
+        {
+            "line_number": 78,
+            "text": "Up to four U22 Initiative Players AND;"
+        },
+        {
+            "line_number": 79,
+            "text": "Up to an additional $2 Million of General Allocation Money"
+        },
+        {
+            "line_number": 83,
+            "text": "U22 Initiative Player Model to Designated Player Model"
+        },
+        {
+            "line_number": 85,
+            "text": "Designated Player Model to U22 Initiative Player Model"
+        },
+        {
+            "line_number": 87,
+            "text": "Designated Player"
+        },
+        {
+            "line_number": 96,
+            "text": "Player may only be traded beginning in his second MLS season"
+        },
+        {
+            "line_number": 98,
+            "text": "Transfer of a Designated Player"
+        },
+        {
+            "line_number": 100,
+            "text": "Young Designated Player"
+        },
+        {
+            "line_number": 102,
+            "text": "Ages 20 and younger: $150,000"
+        },
+        {
+            "line_number": 103,
+            "text": "Ages 21-23: $200,000"
+        },
+        {
+            "line_number": 108,
+            "text": "U22 Initiative Roster Slots"
+        },
+        {
+            "line_number": 109,
+            "text": "Number of Slots:"
+        },
+        {
+            "line_number": 111,
+            "text": "Eligibility for U22 Initiative Slot:"
+        },
+        {
+            "line_number": 112,
+            "text": "Age:"
+        },
+        {
+            "line_number": 114,
+            "text": "Contract:"
+        },
+        {
+            "line_number": 116,
+            "text": "Compensation:"
+        },
+        {
+            "line_number": 119,
+            "text": "U22 Initiative Slot Budget Charge:"
+        },
+        {
+            "line_number": 122,
+            "text": "Ages 21-25: $200,000"
+        },
+        {
+            "line_number": 124,
+            "text": "Transfer of Player:"
+        },
+        {
+            "line_number": 127,
+            "text": "Revenue share convertible to GAM in 2026"
+        },
+        {
+            "line_number": 128,
+            "text": "≤ $2,500,000"
+        },
+        {
+            "line_number": 129,
+            "text": "$3,000,000"
+        },
+        {
+            "line_number": 131,
+            "text": "$2,400,000"
+        },
+        {
+            "line_number": 132,
+            "text": "$3,500,000"
+        },
+        {
+            "line_number": 133,
+            "text": "$1,800,000"
+        },
+        {
+            "line_number": 134,
+            "text": "$4,000,000"
+        },
+        {
+            "line_number": 135,
+            "text": "$1,200,000"
+        },
+        {
+            "line_number": 136,
+            "text": "$4,500,000"
+        },
+        {
+            "line_number": 137,
+            "text": "$600,000"
+        },
+        {
+            "line_number": 138,
+            "text": "≥ $5,000,000"
+        },
+        {
+            "line_number": 139,
+            "text": "$0"
+        },
+        {
+            "line_number": 140,
+            "text": "Reclassification of a Player from a U22 Initiative Slot:"
+        },
+        {
+            "line_number": 143,
+            "text": "Salary Limitation in Options and Years 26+"
+        },
+        {
+            "line_number": 146,
+            "text": "Special Discovery Players"
+        },
+        {
+            "line_number": 153,
+            "text": "Player Acquisition Mechanisms"
+        },
+        {
+            "line_number": 154,
+            "text": "Clubs may acquire players and add them to their rosters via the following mechanisms:"
+        },
+        {
+            "line_number": 155,
+            "text": "SuperDraft"
+        },
+        {
+            "line_number": 158,
+            "text": "Players who are collegiate sophomores and above;"
+        },
+        {
+            "line_number": 159,
+            "text": "Generation adidas players;"
+        },
+        {
+            "line_number": 164,
+            "text": "SuperDraft Priority List"
+        },
+        {
+            "line_number": 166,
+            "text": "Trades"
+        },
+        {
+            "line_number": 168,
+            "text": "Cash for Player Trades"
+        },
+        {
+            "line_number": 174,
+            "text": "Player Percentage"
+        },
+        {
+            "line_number": 176,
+            "text": "Player Designation and Salary Budget Treatment"
+        },
+        {
+            "line_number": 184,
+            "text": "RELATED:"
+        },
+        {
+            "line_number": 185,
+            "text": "mlssoccer.com Transactions Tracker"
+        },
+        {
+            "line_number": 186,
+            "text": "Discovery Process"
+        },
+        {
+            "line_number": 187,
+            "text": "Discovery List"
+        },
+        {
+            "line_number": 190,
+            "text": "Clubs may not add the following players to their Discovery Lists:"
+        },
+        {
+            "line_number": 191,
+            "text": "Current MLS players"
+        },
+        {
+            "line_number": 193,
+            "text": "Players for whom another club has a Right of First Refusal"
+        },
+        {
+            "line_number": 198,
+            "text": "Free Agents"
+        },
+        {
+            "line_number": 199,
+            "text": "Designated Player Requests"
+        },
+        {
+            "line_number": 201,
+            "text": "Discovery Conflict Resolution"
+        },
+        {
+            "line_number": 204,
+            "text": "Related Party Transactions"
+        },
+        {
+            "line_number": 206,
+            "text": "Homegrown Player Signings"
+        },
+        {
+            "line_number": 209,
+            "text": "Affiliate Priority Players"
+        },
+        {
+            "line_number": 211,
+            "text": "Re-Entry Process"
+        },
+        {
+            "line_number": 214,
+            "text": "Stage One"
+        },
+        {
+            "line_number": 215,
+            "text": "Players who are available in Stage One of the Re-Entry Draft are:"
+        },
+        {
+            "line_number": 217,
+            "text": "Stage Two"
+        },
+        {
+            "line_number": 221,
+            "text": "Free Agency"
+        },
+        {
+            "line_number": 223,
+            "text": "Waivers"
+        },
+        {
+            "line_number": 225,
+            "text": "Waiver Order"
+        },
+        {
+            "line_number": 227,
+            "text": "Claiming an Out of Contract Player"
+        },
+        {
+            "line_number": 229,
+            "text": "Claiming a Guaranteed Player"
+        },
+        {
+            "line_number": 231,
+            "text": "Players who are eligible to be placed on Waivers are as follows:"
+        },
+        {
+            "line_number": 232,
+            "text": "Contracted Players:"
+        },
+        {
+            "line_number": 234,
+            "text": "Completed College Eligibility:"
+        },
+        {
+            "line_number": 236,
+            "text": "Remaining College Eligibility:"
+        },
+        {
+            "line_number": 238,
+            "text": "Returning Players:"
+        },
+        {
+            "line_number": 240,
+            "text": "Unsigned Drafted Players:"
+        },
+        {
+            "line_number": 242,
+            "text": "Out-of-Contract/Option Decline Players:"
+        },
+        {
+            "line_number": 245,
+            "text": "Affiliate Short-Term Agreements"
+        },
+        {
+            "line_number": 251,
+            "text": "Extreme Hardship Call-ups"
+        },
+        {
+            "line_number": 253,
+            "text": "Fewer than 16 outfield players available; OR"
+        },
+        {
+            "line_number": 256,
+            "text": "Season-Ending Injury"
+        },
+        {
+            "line_number": 257,
+            "text": "Season-Ending Injury List"
+        },
+        {
+            "line_number": 259,
+            "text": "Season-Ending Injury Replacement Player"
+        },
+        {
+            "line_number": 266,
+            "text": "Supplemental Season-Ending Injury"
+        },
+        {
+            "line_number": 270,
+            "text": "Short-Term Injury Replacements"
+        },
+        {
+            "line_number": 271,
+            "text": "Injured List"
+        },
+        {
+            "line_number": 273,
+            "text": "Senior Roster Players on the Injured List"
+        },
+        {
+            "line_number": 277,
+            "text": "Methods of Removing a Player from a Roster"
+        },
+        {
+            "line_number": 281,
+            "text": "Transfers and Loans"
+        },
+        {
+            "line_number": 283,
+            "text": "Transfer and Loan Fees"
+        },
+        {
+            "line_number": 284,
+            "text": "The revenue share from transfers or loans for clubs is as follows:"
+        },
+        {
+            "line_number": 286,
+            "text": "Usage of Revenue"
+        },
+        {
+            "line_number": 287,
+            "text": "The club's share of transfer revenue may only be used as follows:"
+        },
+        {
+            "line_number": 291,
+            "text": "Intraleague Loans"
+        },
+        {
+            "line_number": 292,
+            "text": "Clubs may loan players to another MLS club subject to the following:"
+        },
+        {
+            "line_number": 297,
+            "text": "Loan of a Player by MLS"
+        },
+        {
+            "line_number": 302,
+            "text": "Loan of a Player by MLS to Affiliate Club (MLS NEXT Pro)"
+        },
+        {
+            "line_number": 308,
+            "text": "The loan must be a season-long free loan;"
+        },
+        {
+            "line_number": 311,
+            "text": "Buyout of Guaranteed Contract"
+        },
+        {
+            "line_number": 316,
+            "text": "Right of First Refusal"
+        },
+        {
+            "line_number": 318,
+            "text": "That club will not have a Right of First Refusal if:"
+        },
+        {
+            "line_number": 321,
+            "text": "Allocation Money"
+        },
+        {
+            "line_number": 323,
+            "text": "General Allocation Money"
+        },
+        {
+            "line_number": 325,
+            "text": "Failure to qualify for the MLS Cup Playoffs"
+        },
+        {
+            "line_number": 326,
+            "text": "The transfer of a club’s player to non-MLS club outside MLS"
+        },
+        {
+            "line_number": 327,
+            "text": "Qualification for the CONCACAF Champions Cup"
+        },
+        {
+            "line_number": 328,
+            "text": "Expansion Clubs (see below)"
+        },
+        {
+            "line_number": 329,
+            "text": "Expansion Dilution (see below)"
+        },
+        {
+            "line_number": 330,
+            "text": "Designated Player charge distribution"
+        },
+        {
+            "line_number": 333,
+            "text": "Buy-Down"
+        },
+        {
+            "line_number": 335,
+            "text": "Use against a Salary Budget Charge"
+        },
+        {
+            "line_number": 337,
+            "text": "Targeted Allocation Money Available Per Year"
+        },
+        {
+            "line_number": 338,
+            "text": "2026: $2,125,000 per club"
+        },
+        {
+            "line_number": 339,
+            "text": "2027: $2,025,000 per club"
+        },
+        {
+            "line_number": 340,
+            "text": "Targeted Allocation Money may be used in the following ways:"
+        },
+        {
+            "line_number": 346,
+            "text": "Salary Parameters"
+        },
+        {
+            "line_number": 349,
+            "text": "2026 Salary Budget Information"
+        },
+        {
+            "line_number": 350,
+            "text": "Club Salary Budget - $6,425,000"
+        },
+        {
+            "line_number": 351,
+            "text": "Maximum Salary Budget Charge - $803,125"
+        },
+        {
+            "line_number": 352,
+            "text": "Senior Minimum Salary - $113,400"
+        },
+        {
+            "line_number": 353,
+            "text": "Reserve Minimum Salary - $88,025"
+        },
+        {
+            "line_number": 354,
+            "text": "Designated Player Salary Budget Charge - $803,125"
+        },
+        {
+            "line_number": 355,
+            "text": "Second Designated Player Salary Budget Charge - $803,125"
+        },
+        {
+            "line_number": 356,
+            "text": "Third Designated Player Salary Budget Charge - $803,125"
+        },
+        {
+            "line_number": 358,
+            "text": "Young Designated Player Budget Charge (21-23 years old during the League Year) - $200,000"
+        },
+        {
+            "line_number": 359,
+            "text": "Mid-Season Designated Player Salary Budget Charge - $401,562.50"
+        },
+        {
+            "line_number": 360,
+            "text": "Mid-Season Young Designated Player Salary Budget Charge (23 years old and younger) - $150,000"
+        },
+        {
+            "line_number": 361,
+            "text": "Maximum Targeted Allocation Money Amount - $1,803,125"
+        },
+        {
+            "line_number": 363,
+            "text": "U22 Initiative Slot Budget Charge (21-25 years old during the League Year) - $200,000"
+        },
+        {
+            "line_number": 364,
+            "text": "Player Professional Development Role"
+        },
+        {
+            "line_number": 366,
+            "text": "The following parameters apply:"
+        },
+        {
+            "line_number": 369,
+            "text": "If the player’s professional development role will include coaching responsibilities:"
+        },
+        {
+            "line_number": 376,
+            "text": "Required Information:"
+        },
+        {
+            "line_number": 378,
+            "text": "Detailed job description, which must include, at a minimum:"
+        },
+        {
+            "line_number": 380,
+            "text": "Job responsibilities; and"
+        },
+        {
+            "line_number": 386,
+            "text": "Previous Roster Rules and Regulations"
+        },
+        {
+            "line_number": 388,
+            "text": "2021 MLS Roster Rules and Regulations"
+        },
+        {
+            "line_number": 389,
+            "text": "2020 MLS Roster Rules and Regulations"
+        }
+    ]
+}
